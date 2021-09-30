@@ -1,22 +1,11 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Strategy"
+    url: /strategy-details/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Performance"
+    url: /strategy-performance/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Model"
+    url: /volatility-model/    
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
