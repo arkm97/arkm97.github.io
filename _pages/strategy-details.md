@@ -1,7 +1,7 @@
 ---
 title: "Strategy"
 layout: archive
-author_profile: true
+author_profile: false
 permalink: /strategy-details/
 ---
 
