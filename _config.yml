@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Covered Calls"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Andrew Madigan"
 description              : &description ""
