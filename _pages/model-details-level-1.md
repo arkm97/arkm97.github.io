@@ -2,7 +2,7 @@
 title: "More details"
 layout: archive
 author_profile: false
-permalink: /volatility-model/details-level-1/
+permalink: /details-level-1/
 ---
 
 Here I want to explain what the model does, maybe with minimal math?
