@@ -12,7 +12,7 @@ In breif: this is the sale of a call option while holding the underlying shares 
 
 If the buyer decides to exercise the option, I already hold the requisite 100 shares, and can sell them without having to first buy them at the market price.  
 
-The payoff looks like this:
+The payoff looks like this: ![payoff](../images/covered_call_payoff.pdf)
 
 #### the strategy, in steps
 
