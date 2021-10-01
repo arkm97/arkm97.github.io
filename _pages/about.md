@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "A covered calls strategy, automated"
-excerpt: "About me"
+excerpt: "About"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,4 +9,13 @@ redirect_from:
 ---
 
 
-### title 
+### What is this?
+explain what the site is and why I made a site
+explain what the strategy is, breifly 
+
+### Why do this?
+what did I want to accomplish?
+big disclaimers
+
+### About me
+links to github etc
