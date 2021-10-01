@@ -15,5 +15,4 @@ permalink: /volatility-model/
 
 ### Predictions
 
-### the rabbit hole
-[see how deep it goes...](https://arkm97.github.io/covered-calls/volatility-model/details-level-1)
+[see how deep the rabbit hole goes...](https://arkm97.github.io/covered-calls/volatility-model/details-level-1)
