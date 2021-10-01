@@ -16,4 +16,4 @@ permalink: /volatility-model/
 ### Predictions
 
 ### the rabbit hole
-[see how deep it goes...](link to model details)
+[see how deep it goes...](/volatility-model/details-level-1)
