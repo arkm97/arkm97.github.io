@@ -26,5 +26,7 @@ The goal is to gain more from the premium than I give up if the underlying price
 
 Further, even if the expected value of the trade is positive, the variance of the payoff may still lead to ruin after a few rounds of written calls.  What really makes the strategy profitable long term is risk control—that means taking bets where the variance of the payoff is small enough that successive losses don't quickly compound and leave me without enough money to buy 100 shares.
 
-### even more details
-Dive into more technical details [here](link)
+### picking winners
+In order to decide whether or not to make the trade, I need to estimate both the payoff and the variance of the payoff.  If the expected payoff is negative or the (estimated) variance is outside my risk tolerance, I won't sell the call.  The expected payoff condition is straightforward.  The variance condition is set by a numerical simulation that answers roughly the following: "what level of variance in payoff can I accept in order to expect less than X% chance of ruin in t years."  
+
+These estimates both require a prediction about future volatility.  Learn more about [model behind the predictions](https://arkm97.github.io/covered-calls/volatility-model/).
