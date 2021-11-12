@@ -10,8 +10,9 @@ redirect_from:
 
 
 ### What is this?
-explain what the site is and why I made a site
-explain what the strategy is, breifly 
+I made this site (mostly) for myself.  I wanted to document all the thinking that went into this project, and compile it in one place.  This site is that documentation.
+
+The "covered calls" strategy is not new---it's a well-known options strategy that comprises selling an option against shares that I already own.  For details, see [Strategy](https://arkm97.github.io/covered-calls/strategy-details/)
 
 ### Why do this?
 what did I want to accomplish?
