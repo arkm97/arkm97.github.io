@@ -19,4 +19,4 @@ what did I want to accomplish?
 big disclaimers
 
 ### About me
-links to github etc
+See this project and others on [my GitHub](https://github.com/arkm97)
