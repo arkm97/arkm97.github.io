@@ -17,8 +17,8 @@ With my model, I try to answer the following question: given the (recent) histor
 
 ### Model Assumptions
 Explicit assumptions are as follows:
-- Buyers and sellers transact when they are "nearby" in price.  E.g., it is unlikely a transaction will happen if a seller wants $100 and a buyer is only willing to pay $50; it's likely they will transact if the buyer is willing to pay $99.
-- Participants set their expectations based on expectations of others who are nearby in price.  If I want to buy at $100 and someone is willing to sell for $200, I probably won't move up my bid.  This participant is irrelevant to me.  If someone is asking for $110, I may change my bid.  This new participant is relevant to me, and changes my expectations, but only because he was nearby in price.
+- Buyers and sellers transact when they are "nearby" in price.  E.g., it is unlikely a transaction will happen if a seller wants \$100 and a buyer is only willing to pay \$50; it's likely they will transact if the buyer is willing to pay \$99.
+- Participants set their expectations based on expectations of others who are nearby in price.  If I want to buy at $100 and someone is willing to sell for \$200, I probably won't move up my bid.  This participant is irrelevant to me.  If someone is asking for $110, I may change my bid.  This new participant is relevant to me, and changes my expectations, but only because he was nearby in price.
 - Participants' expectations are sensitive to the (perceived) number of other participants willing to transact at a given price/time, and the rate of change of that number with both price and time.
 
 An implicit assumption of my approach is that prices are not memoryless.  This is unconventional (more often, prices are modeled by [Martingales](https://en.wikipedia.org/wiki/Martingale_(probability_theory))), but I believe it aligns more closely with how people actually react to price changes.  
