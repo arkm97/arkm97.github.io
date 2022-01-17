@@ -30,3 +30,8 @@ Further, even if the expected value of the trade is positive, the variance of th
 In order to decide whether or not to make the trade, I need to estimate both the payoff and the variance of the payoff.  If the expected payoff is negative or the (estimated) variance is outside my risk tolerance, I won't sell the call.  The expected payoff condition is straightforward.  The variance condition is set by a numerical simulation that answers roughly the following: "what level of variance in payoff can I accept in order to expect less than X% chance of ruin in t years."  
 
 These estimates both require a prediction about future volatility.  Learn more about [model behind the predictions](https://arkm97.github.io/covered-calls/volatility-model/).
+
+With a predicted payoff and predicted payoff variance, I can formulate a strategy like "write the call when expected payoff is positive and variance is less than X".  I can simulate the performance of the strategy with different thresholds X and measure the chance that the strategy loses enough that I cannot reopen the underlying position:
+
+![strategy_simulation](https://user-images.githubusercontent.com/22861412/149824581-7566ab93-1ffd-4655-bb2f-fd5201f48849.png)
+![chance_of_ruin](https://user-images.githubusercontent.com/22861412/149824593-dd219688-efde-4979-bf05-ca6a783d1d02.png)
