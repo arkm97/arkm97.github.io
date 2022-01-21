@@ -4,7 +4,10 @@ main:
     url: /strategy-details/
 
   - title: "Model"
-    url: /volatility-model/    
+    url: /volatility-model/
+    
+  - title: "Implementation"
+    url: /implementation/
     
   - title: "Performance"
     url: /strategy-performance/    
