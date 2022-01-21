@@ -34,4 +34,5 @@ These estimates both require a prediction about future volatility.  Learn more a
 With a predicted payoff and predicted payoff variance, I can formulate a strategy like "write the call when expected payoff is positive and variance is less than X".  I can simulate the performance of the strategy with different thresholds X and measure the chance that the strategy loses enough that I cannot reopen the underlying position:
 
 ![strategy_simulation](https://user-images.githubusercontent.com/22861412/149824581-7566ab93-1ffd-4655-bb2f-fd5201f48849.png)
-![chance_of_ruin](https://user-images.githubusercontent.com/22861412/149824593-dd219688-efde-4979-bf05-ca6a783d1d02.png)
+
+![chance of ruin](https://user-images.githubusercontent.com/22861412/150592577-f7b7eb54-598b-4835-aafe-2d68203053e3.jpeg)
