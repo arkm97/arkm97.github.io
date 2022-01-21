@@ -1,3 +1,10 @@
+---
+title: "Implementation"
+layout: archive
+author_profile: false
+permalink: /implementation/
+---
+
 ### Implementation
 
 The project has multiple components and is implemented using well-known cloud applications.  
