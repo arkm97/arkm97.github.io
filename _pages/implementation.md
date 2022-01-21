@@ -20,3 +20,5 @@ There is a second script on Heroku that pulls the data stored in S3 and creates 
 All together, it looks like this:
 
 ![Implementation diagram](https://user-images.githubusercontent.com/22861412/150457811-2a185da4-9be6-4710-bcd5-cba0955902e6.png)
+
+You can see the code (and a few other projects) on my [GitHub](https://github.com/arkm97/covered-calls-strategy)
