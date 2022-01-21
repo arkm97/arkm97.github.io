@@ -9,3 +9,7 @@ In my predictive model there is a heavy-duty calculation that requires a lot of 
 In order to store data, predictions, and anything else that I want to persist after the script finishes executing, I use an AWS S3 bucket.
 
 There is a second script on Heroku that pulls the data stored in S3 and creates a plot comparing my prediction from 10 days ago to the actual outcome.  It sends that plot to this site (see it [here](https://arkm97.github.io/covered-calls/strategy-performance/)).
+
+All together, it looks like this:
+
+![Implementation diagram](https://user-images.githubusercontent.com/22861412/150457811-2a185da4-9be6-4710-bcd5-cba0955902e6.png)
