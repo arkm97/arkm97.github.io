@@ -11,14 +11,10 @@ There are a few ways to measure the performance of the predictive model.  One wa
 
 <figure class="half">
     <a href="../images/test_image.png"><img src="../images/prediction_vs_outcome.png"></a>
-   
-    <figcaption>style='text-align:center;' Predicted vs observed underlying share price</figcaption>
 </figure>
 
 ### Strategy performance
 What trades have I actually made recently? Is the strategy making money?  Is it making more than if I simply held the underlying shares and never sold them or any options? Here's a visual:
 <figure class="half">
     <a href="../images/test_image.png"><img src="../images/transaction_history.png"></a>
-   
-    <figcaption>style='text-align:center;' Transaction history and % gain since start</figcaption>
 </figure>
