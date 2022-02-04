@@ -11,7 +11,10 @@ In breif: the transaction of interest in this strategy is the sale of a call opt
 If the buyer decides to exercise the option, I can fullfill the sale at the strike price using the 100 shares I already own. This avoids having to first buy 100 shares at the market price.  The combined underlying & short call position thus has limited exposure to upward moves by the underlying security (it is "covered"). On the other hand, the position has essentially the same exposure to downward moves as a simple long position.
 
 The payoff looks like this: 
-<object data="../images/covered_call_payoff.pdf" type='application/pdf'></object>
+
+<figure class="half">
+    <img src="../images/covered_call_payoff.png">
+</figure>
 
 ### the strategy
 (t<sub> -1</sub>) Buy 100 shares of the underlying stock
