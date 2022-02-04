@@ -13,7 +13,7 @@ If the buyer decides to exercise the option, I can fullfill the sale at the stri
 The payoff looks like this: 
 
 <figure class="half">
-    <img src="../images/covered_call_payoff.png">
+    <img style="width: 1000" src="../images/covered_call_payoff.png">
 </figure>
 
 ### the strategy
