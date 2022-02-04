@@ -21,14 +21,13 @@ I did this project for fun.  Also to learn some interesting math.  Faced with mo
 
 ### See more
 <figure class="half">
-    <a href="https://arkm97.github.io/covered-calls/strategy-performance/"><img style="width:200px; opacity:.5" src="../images/transaction_history.png"></a>
-    <div style="top: 50%; left: 50%; transform: translate(-50%, -50%);">Live transasction history</div>
+  <a href="https://arkm97.github.io/covered-calls/strategy-performance/"><img style="width:200px; opacity:.5" src="../images/transaction_history.png"></a>
+  <figcaption>Live transaction history</figcaption>
 </figure>
 <figure class="half">
-    <a href="https://arkm97.github.io/covered-calls/strategy-details/"><img style="width:200px; opacity:.5" src="../images/covered_call_payoff.pdf"></a>
-    <div style="top: 50%; left: 50%; transform: translate(-50%, -50%);">Strategy details</div>
+  <a href="https://arkm97.github.io/covered-calls/strategy-details/"><img style="width:200px; opacity:.5" src="../images/covered_call_payoff.pdf"></a>
+  <figcaption>Strategy details</figcaption>
 </figure>
-
 
   
 
