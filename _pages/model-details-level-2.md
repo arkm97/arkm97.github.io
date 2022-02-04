@@ -6,7 +6,9 @@ permalink: /details-level-2/
 ---
 [leave Wonderland](https://arkm97.github.io/covered-calls/volatility-model/)
 
-![more_details.pdf](https://arkm97.github.io/covered-calls/files/four_pt_amplitude.pdf)
+<object data="https://arkm97.github.io/covered-calls/files/four_pt_amplitude.pdf" type='application/pdf' alt='more_details.pdf'></object>
+
+<!-- ![more_details.pdf](https://arkm97.github.io/covered-calls/files/four_pt_amplitude.pdf) -->
 
 [1] [Wick's theorem](https://en.wikipedia.org/wiki/Wick%27s_theorem)
 
