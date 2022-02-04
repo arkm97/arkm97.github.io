@@ -19,5 +19,20 @@ I'm aware there are better trading strategies out there.  I'm sure there are ple
 
 I did this project for fun.  Also to learn some interesting math.  Faced with months of downtime during the covid pandemic, I needed something to keep my mind occupied.  As it turns out, an hour here or there each day is a ton of time when all devoted to one project.  I got to learn how to place trades via API calls, got some experience working with securities data, learned how to build an application that interacts with other applications, and got experience with plenty of SaaS products (like AWS lambda/S3, Heroku, mailgun, Github, etc.).  It is a nice added benefit that what I've built makes money, but that wasn't the sole motivation.
 
+### See more
+<figure class="half">
+  <div position: absolute; top: 25%; left: 50%; transform: translate(-50%, -50%)>
+    <a href="https://arkm97.github.io/covered-calls/strategy-performance/"><img style="width:200px; opacity:.5" src="../images/transaction_history.png"></a></div>
+    <p>Live transasction history</p>
+  </div>
+</figure>
+<figure class="half">
+  <div position: absolute; top: 25%; left: 50%; transform: translate(-50%, -50%)>
+    <a href="https://arkm97.github.io/covered-calls/strategy-details/"><img style="width:200px; opacity:.5" src="../images/covered_call_payoff.pdf"></a></div>
+    <p>Strategy Details</p>
+  </div>
+</figure>
+  
+
 ### About me
 See this project and others on [my GitHub](https://github.com/arkm97)
