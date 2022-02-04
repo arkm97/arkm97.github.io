@@ -7,7 +7,7 @@ permalink: /details-level-2/
 [leave Wonderland](https://arkm97.github.io/covered-calls/volatility-model/)
 
 <figure class="half">
-    <img src="../images/four_pt_amplitude.png">
+    <img src="../images/four_pt_amplitude.png" style="width:1000">
 </figure>
 
 
