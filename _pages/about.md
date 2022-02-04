@@ -21,17 +21,15 @@ I did this project for fun.  Also to learn some interesting math.  Faced with mo
 
 ### See more
 <figure class="half">
-  <div position: absolute; top: 25%; left: 50%; transform: translate(-50%, -50%)>
     <a href="https://arkm97.github.io/covered-calls/strategy-performance/"><img style="width:200px; opacity:.5" src="../images/transaction_history.png"></a></div>
     <p>Live transasction history</p>
-  </div>
 </figure>
 <figure class="half">
-  <div position: absolute; top: 25%; left: 50%; transform: translate(-50%, -50%)>
     <a href="https://arkm97.github.io/covered-calls/strategy-details/"><img style="width:200px; opacity:.5" src="../images/covered_call_payoff.pdf"></a></div>
     <p>Strategy Details</p>
-  </div>
 </figure>
+
+
   
 
 ### About me
