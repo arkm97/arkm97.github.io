@@ -29,3 +29,6 @@ Given a functional form for the distribution ![P(X|\theta, data)](https://latex.
 #### More details
 There is a lot more to say about the assumptions I've made and how they lead to the form of the distribution ![P(X|\theta, data)](https://latex.codecogs.com/svg.latex?P%28X%7C%5Ctheta%2C%20%5Ctext%7Bdata%7D%29).  
 [See how deep the rabbit hole goes...](https://arkm97.github.io/covered-calls/details-level-1)
+
+#### How does the model perform?
+See the [(live) performance of the model](https://arkm97.github.io/covered-calls/strategy-performance/)
