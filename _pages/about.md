@@ -25,7 +25,7 @@ I did this project for fun.  Also to learn some interesting math.  Faced with mo
   <a href="https://arkm97.github.io/covered-calls/strategy-performance/"><img style="width:200px" src="https://arkm97.github.io/covered-calls/images/transaction_history.png"></a>
   <figcaption><a href="https://arkm97.github.io/covered-calls/strategy-performance/">Live transaction history</a></figcaption>
   <a href="https://arkm97.github.io/covered-calls/strategy-details/"><img style="width:200px" src="https://arkm97.github.io/covered-calls/images/covered_call_payoff.png"></a>
-  <figcaption><a href="https://arkm97.github.io/covered-calls/strategy-details/">Live transaction history</a></figcaption>
+  <figcaption><a href="https://arkm97.github.io/covered-calls/strategy-details/">Strategy details</a></figcaption>
 </figure>
 
 
