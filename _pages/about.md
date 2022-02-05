@@ -23,10 +23,10 @@ I did this project for fun.  Also to learn some interesting math.  Faced with mo
 ### See more
 <figure class="half">
   <a href="https://arkm97.github.io/covered-calls/strategy-performance/"><img style="width:200px" src="../images/transaction_history.png"></a>
-  <figcaption><a href="https://arkm97.github.io/covered-calls/strategy-performance/">Live transaction history</a></figcaption>
   <a href="https://arkm97.github.io/covered-calls/strategy-details/"><img style="width:200px" src="../images/covered_call_payoff.png"></a>
-  <figcaption><a href="https://arkm97.github.io/covered-calls/strategy-details/">Strategy details</a></figcaption>
 </figure>
+
+
 
   
 
