@@ -32,3 +32,9 @@ There is a lot more to say about the assumptions I've made and how they lead to 
 
 #### How does the model perform?
 See the [(live) performance of the model](https://arkm97.github.io/covered-calls/strategy-performance/)
+
+
+<figure class="half">
+  <a href="https://arkm97.github.io/covered-calls/strategy-performance/"><img style="width:200px" src="https://arkm97.github.io/covered-calls/images/prediction_vs_outcome.png"></a>
+  <figcaption><a href="https://arkm97.github.io/covered-calls/strategy-performance/">Model performance</a></figcaption>
+</figure>
