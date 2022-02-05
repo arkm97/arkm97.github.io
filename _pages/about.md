@@ -21,11 +21,13 @@ I'm aware there are better trading strategies out there.  I'm sure there are ple
 I did this project for fun.  Also to learn some interesting math.  Faced with months of downtime during the covid pandemic, I needed something to keep my mind occupied.  As it turns out, an hour here or there each day is a ton of time when all devoted to one project.  I got to learn how to place trades via API calls, got some experience working with securities data, learned how to build an application that interacts with other applications, and got experience with plenty of SaaS products (like AWS lambda/S3, Heroku, mailgun, Github, etc.).  It is a nice added benefit that what I've built makes money, but that wasn't the sole motivation.
 
 ### See more
-<figure class="half">
+<figure class="third">
   <a href="https://arkm97.github.io/covered-calls/strategy-performance/"><img style="width:200px" src="https://arkm97.github.io/covered-calls/images/transaction_history.png"></a>
   <figcaption><a href="https://arkm97.github.io/covered-calls/strategy-performance/">Live transaction history</a></figcaption>
   <a href="https://arkm97.github.io/covered-calls/strategy-details/"><img style="width:200px" src="https://arkm97.github.io/covered-calls/images/covered_call_payoff.png"></a>
   <figcaption><a href="https://arkm97.github.io/covered-calls/strategy-details/">Strategy details</a></figcaption>
+  <a href="https://arkm97.github.io/covered-calls/implementation/"><img style="width:200px" src="https://user-images.githubusercontent.com/22861412/150590524-3f64b56e-53aa-4871-83eb-96ecfb84fdfa.png"></a>
+  <figcaption><a href="https://arkm97.github.io/covered-calls/implementation/">Implementation details</a></figcaption>
 </figure>
 
 
