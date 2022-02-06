@@ -42,5 +42,5 @@ With a predicted payoff and predicted payoff variance, I can formulate a strateg
 #### How does the strategy perform?
 <figure class="half">
   <a href="https://arkm97.github.io/covered-calls/strategy-performance/"><img style="width:200px" src="https://arkm97.github.io/covered-calls/images/transaction_history.png"></a>
-  <figcaption><a href="https://arkm97.github.io/covered-calls/strategy-performance/">(Live) transaction history</a></figcaption>
+  <figcaption><a href="https://arkm97.github.io/covered-calls/strategy-performance/">(Live) transaction history & performance</a></figcaption>
 </figure>
