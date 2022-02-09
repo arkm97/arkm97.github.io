@@ -4,6 +4,7 @@ layout: archive
 author_profile: false
 permalink: /details-level-1/
 ---
+#### read about the model different ways: [High-Level, no math](https://arkm97.github.io/covered-calls/volatility-model/) | More details, minimal math (this page) | [All math](https://arkm97.github.io/covered-calls/details-level-2/)
 
 The first step is to estimate the distribution of participants in price space (more precisely, I'm estimating the distribution of _guesses_ about future distribution of participants in log return space).  Taking a window lagging the current time, I estimate this distribution using the price history. 
 
