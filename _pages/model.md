@@ -5,6 +5,8 @@ author_profile: false
 permalink: /volatility-model/
 ---
 
+#### read about the model different ways: High-Level, no math (this page) | [More details, minimal math](https://arkm97.github.io/covered-calls/details-level-1/) | [All math](https://arkm97.github.io/covered-calls/details-level-2/)
+
 ### What does the model have to do?
 The model has to generate a probability distribution for the price of the underlying at expiration.  With that distribution, calculating expected return and the variance of the return are straightforward.
 
